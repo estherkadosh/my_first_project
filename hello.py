@@ -3,3 +3,6 @@ print("Python עובד בצורה מעולה")
 print("הגרסה שלי עובדת!")
 print("hi")
 print("Alice")
+
+
+print("add code")
